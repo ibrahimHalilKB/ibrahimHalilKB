@@ -25,8 +25,7 @@
 ---
 
 ### 📊 GitHub Stats
-![İbrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbrahimHalilKB&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimHalilKB&layout=compact&theme=tokyonight&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimhalilkb&show_icons=true&theme=radial&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimhalilkb&theme=radial&hide_border=true)
 ---
 *Created with passion & code.*
