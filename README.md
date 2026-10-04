@@ -5,9 +5,9 @@
 ---
 
 ### 🚀 About Me
--Computer Programming Student based in Türkiye
--Primary Focus: Software Engineering & Object-Oriented Programming
--Fields of Interest: Game Development, System Logic & Application Development
+- Computer Programming Student based in Türkiye.
+- Primary Focus: Software Engineering & Object-Oriented Programming.
+- Fields of Interest: Game Development, System Logic & Application Development.
 ---
 
 ### 🛠️ Languages & Tools
