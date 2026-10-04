@@ -5,11 +5,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently focusing on **Software Engineering & Computer Science**
-- 💻 Tech Stack & Tools: **Python | JavaScript | C# | Git & GitHub**
-- 🎯 Goals: Developing impactful software solutions and open-source contributions.
-- ⚡ Fun fact: Passionate about continuous learning and problem-solving.
-
+-Computer Programming Student based in Türkiye
+-Primary Focus: Software Engineering & Object-Oriented Programming
+-Fields of Interest: Game Development, System Logic & Application Development
 ---
 
 ### 🛠️ Languages & Tools
